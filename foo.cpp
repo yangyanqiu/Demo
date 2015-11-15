@@ -9,6 +9,7 @@ int main()
 	cout << "The third commit" << endl;
 	cout << "The forth commit" << endl;
 	cout << "modified in newbranch" << endl;
+	cout << "master" << endl;
 
 	return 0;
 }
